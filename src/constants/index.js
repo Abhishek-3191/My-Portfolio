@@ -1,4 +1,3 @@
-import ecommerce from "../../assets/ecommerce.png"
 export const myProjects = [
   {
     id: 1,
