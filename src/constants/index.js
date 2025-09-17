@@ -1,3 +1,4 @@
+import ecommerce from "../assets/projects/ecommerce.png"
 export const myProjects = [
   {
     id: 1,
@@ -12,7 +13,7 @@ export const myProjects = [
     ],
     href: `https://ecommerce-deploy-2.onrender.com/`,
     logo: "",
-    image: "/src/assets/projects/ecommerce.png",  
+    image: "ecommerce",  
     tags: [
       {
         id: 1,
