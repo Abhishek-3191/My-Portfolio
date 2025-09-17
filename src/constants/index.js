@@ -22,17 +22,17 @@ export const myProjects = [
       {
         id: 2,
         name: "Express",
-        path: "//assets/express.svg",
+        path: "/assets/express.svg",
       },
       {
         id: 3,
         name: "React",
-        path: "//assets/react.svg",
+        path: "/assets/react.svg",
       },
       {
         id: 4,
         name: "Nodejs",
-        path: "//assets/nodejs.svg",
+        path: "/assets/nodejs.svg",
       },
     ],
   },
