@@ -12,27 +12,27 @@ export const myProjects = [
     ],
     href: `https://ecommerce-deploy-2.onrender.com/`,
     logo: "",
-    image: "/public/assets/projects/ecommerce.png",  
+    image: "/public//assets/projects/ecommerce.png",  
     tags: [
       {
         id: 1,
         name: "Mongodb",
-        path: "/public/assets/logos/mongodb.svg",
+        path: "/public//assets/logos/mongodb.svg",
       },
       {
         id: 2,
         name: "Express",
-        path: "/public/assets/logos/express.svg",
+        path: "/public//assets/logos/express.svg",
       },
       {
         id: 3,
         name: "React",
-        path: "/public/assets/logos/react.svg",
+        path: "/public//assets/logos/react.svg",
       },
       {
         id: 4,
         name: "Nodejs",
-        path: "/public/assets/logos/nodejs.svg",
+        path: "/public//assets/logos/nodejs.svg",
       },
     ],
   },
