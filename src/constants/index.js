@@ -1,3 +1,4 @@
+import ecommerce from "../../public/assets/ecommerce.png"
 export const myProjects = [
   {
     id: 1,
@@ -12,27 +13,27 @@ export const myProjects = [
     ],
     href: `https://ecommerce-deploy-2.onrender.com/`,
     logo: "",
-    image: "/public/assets/projects/ecommerce.png",  
+    image: "ecommerce",  
     tags: [
       {
         id: 1,
         name: "Mongodb",
-        path: "/public/assets/logos/mongodb.svg",
+        path: "/public//assets/logos/mongodb.svg",
       },
       {
         id: 2,
         name: "Express",
-        path: "/public/assets/logos/express.svg",
+        path: "/public//assets/logos/express.svg",
       },
       {
         id: 3,
         name: "React",
-        path: "/public/assets/logos/react.svg",
+        path: "/public//assets/logos/react.svg",
       },
       {
         id: 4,
         name: "Nodejs",
-        path: "/public/assets/logos/nodejs.svg",
+        path: "/public//assets/logos/nodejs.svg",
       },
     ],
   },
@@ -51,27 +52,27 @@ subDescription: [
 
     href: " https://airbnb-k3zu.onrender.com/listings",
     logo: "",
-    image: "/public/assets/projects/airbnb.png",
+    image: "/public//assets/projects/airbnb.png",
      tags: [
       {
         id: 1,
         name: "Mongodb",
-        path: "/public/assets/logos/mongodb.svg",
+        path: "/public//assets/logos/mongodb.svg",
       },
       {
         id: 2,
         name: "Express",
-        path: "/public/assets/logos/express.svg",
+        path: "/public//assets/logos/express.svg",
       },
       {
         id: 3,
         name: "E6+",
-        path: "/public/assets/logos/ejs.svg",
+        path: "/public//assets/logos/ejs.svg",
       },
       {
         id: 4,
         name: "Nodejs",
-        path: "/public/assets/logos/nodejs.svg",
+        path: "/public//assets/logos/nodejs.svg",
       },
     ],
   },
@@ -88,27 +89,27 @@ subDescription: [
 ],
     href: "https://www.github.com/Abishehk-3191/lms",
     logo: "",
-    image: "/public/assets/projects/lms.png",
+    image: "/public//assets/projects/lms.png",
     tags: [
       {
         id: 1,
         name: "Mongodb",
-        path: "/public/assets/logos/mongodb.svg",
+        path: "/public//assets/logos/mongodb.svg",
       },
       {
         id: 2,
         name: "Express",
-        path: "/public/assets/logos/express.svg",
+        path: "/public//assets/logos/express.svg",
       },
       {
         id: 3,
         name: "React",
-        path: "/public/assets/logos/react.svg",
+        path: "/public//assets/logos/react.svg",
       },
       {
         id: 4,
         name: "Nodejs",
-        path: "/public/assets/logos/nodejs.svg",
+        path: "/public//assets/logos/nodejs.svg",
       },
     ],
   },
@@ -125,27 +126,27 @@ subDescription: [
     ],
     href: "https://abhishek-3191.github.io/Flappy-bird/",
     logo: "",
-    image: "/public//assets/projects/flappybird.png",
+    image: "/public/assets/projects/flappybird.png",
     tags: [
       {
         id: 1,
         name: "HTML",
-        path: "/public/assets/logos/html5.svg",
+        path: "/public//assets/logos/html5.svg",
       },
       {
         id: 2,
         name: "CSS",
-        path: "/public/assets/logos/css3.svg",
+        path: "/public//assets/logos/css3.svg",
       },
       {
         id: 3,
         name: "Javascript",
-        path: "/public/assets/logos/javascript.svg",
+        path: "/public//assets/logos/javascript.svg",
       },
       {
         id: 4,
         name: "GitHub",
-        path: "/public/assets/logos/github.svg",
+        path: "/public//assets/logos/github.svg",
       },
     ],
   },
@@ -162,23 +163,23 @@ subDescription: [
     ],
     href: "https://abhishek-3191.github.io/Restaurant/",
     logo: "",
-    image: "/public/assets/projects/restaurant.png",
+    image: "/public//assets/projects/restaurant.png",
     tags: [
      
       {
         id: 1,
         name: "HTML5",
-        path: "/public/assets/logos/html5.svg",
+        path: "/public//assets/logos/html5.svg",
       },
       {
         id: 2,
         name: "Tailwindcss",
-        path: "/public/assets/logos/tailwindcss.svg",
+        path: "/public//assets/logos/tailwindcss.svg",
       },
       {
         id: 3,
         name: "Vite.js",
-        path: "/public/assets/logos/vitejs.svg",
+        path: "/public//assets/logos/vitejs.svg",
       },
     ],
   },
@@ -193,29 +194,29 @@ subDescription: [
   "Enabled real-time messaging with Firebase Firestore database integration.",
   "Built an admin console to manage users, chats, and application settings.",
 ], 
-    href: "https://www.github.com/Abhishek-3191/chat-app",
+    href: "",
     logo: "",
-    image: "/public/assets/projects/chatapp.png",
+    image: "/public//assets/projects/chatapp.png",
     tags: [
       {
         id: 1,
         name: "ReactJs",
-        path: "/public/assets/logos/react.svg",
+        path: "/public//assets/logos/react.svg",
       },
       {
         id: 2,
         name: "GitHub",
-        path: "/public/assets/logos/github.svg",
+        path: "/public//assets/logos/github.svg",
       },
       {
         id: 3,
         name: "Firebase",
-        path: "/public/assets/logos/firebase.svg",
+        path: "/public//assets/logos/firebase.svg",
       },
       {
         id: 4,
         name: "TailwindCSS",
-        path: "/public/assets/logos/tailwindcss.svg",
+        path: "/public//assets/logos/tailwindcss.svg",
       },
     ],
   },
@@ -226,22 +227,22 @@ export const mySocials = [
   {
     name: "Leetcode",
     href: "https://www.linkedin.com/u/Abhishek3191",
-    icon: "/public/assets/socials/leetcode.svg",
+    icon: "/public//assets/socials/leetcode.svg",
   },
   {
     name: "GitHub",
     href: "https://www.github.com/Abhishek-3191",
-    icon: "/public/assets/socials/github.jpg"
+    icon: "/public//assets/socials/github.jpg"
   },
   {
     name: "Linkedin",
     href: "https://www.linkedin.com/in/abhisheksrivastava3191/",
-    icon: "/public/assets/socials/linkedin.svg",
+    icon: "/public//assets/socials/linkedin.svg",
   },
   {
     name: "Twitter",
     href: "https://x.com/Abhishek_3191",
-    icon: "/public/assets/socials/twitter.svg",
+    icon: "/public//assets/socials/twitter.svg",
   },
 ];
 
