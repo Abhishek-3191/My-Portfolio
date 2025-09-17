@@ -194,7 +194,7 @@ subDescription: [
   "Enabled real-time messaging with Firebase Firestore database integration.",
   "Built an admin console to manage users, chats, and application settings.",
 ], 
-    href: "",
+    href: "https://www.github.com/Abhishek-3191/chat-app",
     logo: "",
     image: "/assets/chatapp.png",
     tags: [
