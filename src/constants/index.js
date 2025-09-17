@@ -1,4 +1,4 @@
-import ecommerce from "../../public/assets/ecommerce.png"
+import ecommerce from "../../assets/ecommerce.png"
 export const myProjects = [
   {
     id: 1,
@@ -13,27 +13,27 @@ export const myProjects = [
     ],
     href: `https://ecommerce-deploy-2.onrender.com/`,
     logo: "",
-    image: "/public/assets/ecommerce.png",  
+    image: "/assets/ecommerce.png",  
     tags: [
       {
         id: 1,
         name: "Mongodb",
-        path: "/public/assets/mongodb.svg",
+        path: "/assets/mongodb.svg",
       },
       {
         id: 2,
         name: "Express",
-        path: "/public//assets/express.svg",
+        path: "//assets/express.svg",
       },
       {
         id: 3,
         name: "React",
-        path: "/public//assets/react.svg",
+        path: "//assets/react.svg",
       },
       {
         id: 4,
         name: "Nodejs",
-        path: "/public//assets/nodejs.svg",
+        path: "//assets/nodejs.svg",
       },
     ],
   },
@@ -52,27 +52,27 @@ subDescription: [
 
     href: " https://airbnb-k3zu.onrender.com/listings",
     logo: "",
-    image: "/public/assets/airbnb.png",
+    image: "/assets/airbnb.png",
      tags: [
       {
         id: 1,
         name: "Mongodb",
-        path: "/public/assets/mongodb.svg",
+        path: "/assets/mongodb.svg",
       },
       {
         id: 2,
         name: "Express",
-        path: "/public/assets/express.svg",
+        path: "/assets/express.svg",
       },
       {
         id: 3,
         name: "E6+",
-        path: "/public/assets/ejs.svg",
+        path: "/assets/ejs.svg",
       },
       {
         id: 4,
         name: "Nodejs",
-        path: "/public/assets/nodejs.svg",
+        path: "/assets/nodejs.svg",
       },
     ],
   },
@@ -89,27 +89,27 @@ subDescription: [
 ],
     href: "https://www.github.com/Abishehk-3191/lms",
     logo: "",
-    image: "/public/assets/lms.png",
+    image: "/assets/lms.png",
     tags: [
       {
         id: 1,
         name: "Mongodb",
-        path: "/public/assets/mongodb.svg",
+        path: "/assets/mongodb.svg",
       },
       {
         id: 2,
         name: "Express",
-        path: "/public/assets/express.svg",
+        path: "/assets/express.svg",
       },
       {
         id: 3,
         name: "React",
-        path: "/public/assets/react.svg",
+        path: "/assets/react.svg",
       },
       {
         id: 4,
         name: "Nodejs",
-        path: "/public/assets/nodejs.svg",
+        path: "/assets/nodejs.svg",
       },
     ],
   },
@@ -126,27 +126,27 @@ subDescription: [
     ],
     href: "https://abhishek-3191.github.io/Flappy-bird/",
     logo: "",
-    image: "/public/assets/flappybird.png",
+    image: "/assets/flappybird.png",
     tags: [
       {
         id: 1,
         name: "HTML",
-        path: "/public/assets/html5.svg",
+        path: "/assets/html5.svg",
       },
       {
         id: 2,
         name: "CSS",
-        path: "/public/assets/css3.svg",
+        path: "/assets/css3.svg",
       },
       {
         id: 3,
         name: "Javascript",
-        path: "/public/assets/javascript.svg",
+        path: "/assets/javascript.svg",
       },
       {
         id: 4,
         name: "GitHub",
-        path: "/public/assets/github.svg",
+        path: "/assets/github.svg",
       },
     ],
   },
@@ -163,23 +163,23 @@ subDescription: [
     ],
     href: "https://abhishek-3191.github.io/Restaurant/",
     logo: "",
-    image: "/public/assets/restaurant.png",
+    image: "/assets/restaurant.png",
     tags: [
      
       {
         id: 1,
         name: "HTML5",
-        path: "/public/assets/html5.svg",
+        path: "/assets/html5.svg",
       },
       {
         id: 2,
         name: "Tailwindcss",
-        path: "/public/assets/tailwindcss.svg",
+        path: "/assets/tailwindcss.svg",
       },
       {
         id: 3,
         name: "Vite.js",
-        path: "/public/assets/vitejs.svg",
+        path: "/assets/vitejs.svg",
       },
     ],
   },
@@ -196,27 +196,27 @@ subDescription: [
 ], 
     href: "",
     logo: "",
-    image: "/public/assets/chatapp.png",
+    image: "/assets/chatapp.png",
     tags: [
       {
         id: 1,
         name: "ReactJs",
-        path: "/public/assets/react.svg",
+        path: "/assets/react.svg",
       },
       {
         id: 2,
         name: "GitHub",
-        path: "/public/assets/github.svg",
+        path: "/assets/github.svg",
       },
       {
         id: 3,
         name: "Firebase",
-        path: "/public/assets/firebase.svg",
+        path: "/assets/firebase.svg",
       },
       {
         id: 4,
         name: "TailwindCSS",
-        path: "/public/assets/tailwindcss.svg",
+        path: "/assets/tailwindcss.svg",
       },
     ],
   },
