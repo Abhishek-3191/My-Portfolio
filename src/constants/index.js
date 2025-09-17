@@ -227,22 +227,22 @@ export const mySocials = [
   {
     name: "Leetcode",
     href: "https://www.linkedin.com/u/Abhishek3191",
-    icon: "/public/assets/leetcode.svg",
+    icon: "/assets/leetcode.svg",
   },
   {
     name: "GitHub",
     href: "https://www.github.com/Abhishek-3191",
-    icon: "/public/assets/github.jpg"
+    icon: "/assets/github.jpg"
   },
   {
     name: "Linkedin",
     href: "https://www.linkedin.com/in/abhisheksrivastava3191/",
-    icon: "/public/assets/linkedin.svg",
+    icon: "/assets/linkedin.svg",
   },
   {
     name: "Twitter",
     href: "https://x.com/Abhishek_3191",
-    icon: "/public/assets/socials/twitter.svg",
+    icon: "/assets/twitter.svg",
   },
 ];
 
