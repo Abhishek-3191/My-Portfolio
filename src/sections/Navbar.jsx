@@ -50,7 +50,7 @@ const Navbar = () => {
          
             <div className="text-white">
               <a
-           href="https://drive.google.com/file/d/1Nr6nlLYmnQXckYVLdAgZKr7IZZhdK24f/view?usp=drivesdk" download target="_blank" rel="noopener noreferrer"
+           href="https://drive.google.com/file/d/1nTTg2b67KETQiGGAcC_mMY0mOhaX7ZJQ/view?usp=drivesdk" download target="_blank" rel="noopener noreferrer"
             className="block px-4 py-2 bg-blue-600 text-white  hover:bg-blue-700"
           >
             View Resume
