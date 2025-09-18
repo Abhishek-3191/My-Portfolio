@@ -19,7 +19,7 @@ const Navbar = () => {
             <a href="#experience" className="hover:text-blue-600">Experience</a>
             <a href="#contact" className="hover:text-blue-600">Contact</a>
             <a 
-              href="https://drive.google.com/file/d/1Nr6nlLYmnQXckYVLdAgZKr7IZZhdK24f/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1nTTg2b67KETQiGGAcC_mMY0mOhaX7ZJQ/view?usp=drivesdk"
               target="_blank" 
               rel="noopener noreferrer"
               className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
