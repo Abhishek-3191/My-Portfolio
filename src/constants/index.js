@@ -225,7 +225,7 @@ export const mySocials = [
   
   {
     name: "Leetcode",
-    href: "https://www.linkedin.com/u/Abhishek3191",
+    href: "https://www.leetcode.com/u/Abhishek3191",
     icon: "/assets/leetcode.svg",
   },
   {
