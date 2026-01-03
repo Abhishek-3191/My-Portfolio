@@ -36,7 +36,7 @@ const About = () => {
             <p className="mt-2 text-gray-700">
               {/* I build reliable, high-performance backend systems and polished front-end experiences.
               Experienced with Node.js, React, and scalable architectures. */}
-             Full-Stack Developer and LeetCode Knight (1900+ rating, top 5% globally) with strong problem-solving and 
+             Full-Stack Developer & LeetCode Knight (1900+ rating, top 5% globally) with strong problem-solving and 
              system design skills. Experienced in architecting and deploying scalable web applications 
              using React, Node.js, and MongoDB, while ensuring optimized performance and clean code 
              through TDD and agile practices.
