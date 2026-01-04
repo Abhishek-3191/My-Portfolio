@@ -22,7 +22,7 @@ const About = () => {
             Hi, I'm Abhishek Srivastava
           </h1>
           <p className="mt-2 text-lg text-gray-600">
-          Software Engineer • Full-stack developer • Problem solver
+          Software Engineer • Full-stack developer • Problem solver • AI
           </p>
 
           {/* One-liner with animation */}
