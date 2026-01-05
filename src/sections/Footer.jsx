@@ -26,7 +26,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="text-sm text-gray-500 text-center md:text-right">
-          © {new Date().getFullYear()} Abhishek Srivastava. All rights reserved.
+          © {new Date().getFullYear()} Abhishek Srivastava.  All rights reserved.
         </div>
       </div>
     </footer>
