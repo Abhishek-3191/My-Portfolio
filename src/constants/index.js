@@ -116,7 +116,7 @@ subDescription: [
     id: 4,
     title: "Flappy Bird",
     description:
-      "A lightweight Js game engine designed for 2D game development.",
+      "A lightweight JS game engine designed for 2D game development.",
     subDescription: [
 "Built a fully functional Flappy Bird clone using JavaScript and HTML.",
 "Implemented smooth bird physics with gravity and jump mechanics.",
