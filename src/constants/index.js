@@ -261,7 +261,7 @@ export const experiences = [
   {
     title: "Software Developer",
     job: "Intern",
-    date: "2024 Sept -2025 Feb",
+    date: "2024 Sept -2025 Jun",
     company:"Moaisus Global Solutions",
     contents: [
       "Collaborated with backend engineers in an Agile/Scrum environment, integrating RESTful APIs to enhance dashboard functionality and enable real-time updates, boosting usability by 25%.",
