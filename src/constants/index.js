@@ -150,38 +150,43 @@ subDescription: [
     ],
   },
   {
-    id: 5,
-    title: "Restaurant",
-    description:
-         "A modern static restaurant website built with Tailwind CSS for responsive design.",
-    subDescription: [
-      "Developed a fully responsive static site using HTML5, CSS3, and JavaScript.",
-    "Styled the entire UI with Tailwind CSS for clean and modern aesthetics.",
-    "Optimized performance with lightweight code and fast-loading assets.",
-    "Implemented interactive menus and smooth animations for better user experience.",
-    ],
-    href: "https://abhishek-3191.github.io/Restaurant/",
-    logo: "",
-    image: "/assets/restaurant.png",
-    tags: [
-     
-      {
-        id: 1,
-        name: "HTML5",
-        path: "/assets/html5.svg",
-      },
-      {
-        id: 2,
-        name: "Tailwindcss",
-        path: "/assets/tailwindcss.svg",
-      },
-      {
-        id: 3,
-        name: "Vite.js",
-        path: "/assets/vitejs.svg",
-      },
-    ],
-  },
+  id: 5,
+  title: "AI Agent Builder",
+  description:
+    "A modern AI-powered agent platform that enables users to create and interact with intelligent conversational agents in real time.",
+  subDescription: [
+    "Built a dynamic AI agent interface using HTML5, Tailwind CSS, and Vite.js.",
+    "Integrated real-time chat streaming for smooth and interactive AI conversations.",
+    "Designed a clean, responsive UI with Tailwind CSS for seamless cross-device experience.",
+    "Optimized performance using Vite.js for fast development, hot module reload, and efficient builds.",
+  ],
+  href: "https://github.com/Abhishek-3191/AI-Agent",
+  logo: "",
+  image: "/assets/chat-streaming.png",
+  tags: [
+    {
+      id: 1,
+      name: "NextJs",
+      path: "/assets/NextJs.svg",
+    },
+    {
+      id: 2,
+      name: "Tailwindcss",
+      path: "/assets/tailwindcss.svg",
+    },
+    {
+      id: 3,
+      name: "ReactJs",
+      path: "/assets/react.svg",
+    },
+     {
+      id: 4,
+      name: "GenAI",
+      path: "/assets/genai.svg",
+    },
+  ],
+},
+
   {
     id: 6,
     title: "Chat App",
