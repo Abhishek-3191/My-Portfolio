@@ -188,42 +188,43 @@ subDescription: [
 },
 
   {
-    id: 6,
-    title: "Chat App",
-    description:
-  "A real-time chat application with authentication, messaging, and backend console support.",
-subDescription: [
-  "Developed using React.js for a fast and responsive user interface.",
-  "Implemented Firebase Authentication for secure user login and signup.",
-  "Enabled real-time messaging with Firebase Firestore database integration.",
-  "Built an admin console to manage users, chats, and application settings.",
-], 
-    href: "https://www.github.com/Abhishek-3191/chat-app",
-    logo: "",
-    image: "/assets/chatapp.png",
-    tags: [
-      {
-        id: 1,
-        name: "ReactJs",
-        path: "/assets/react.svg",
-      },
-      {
-        id: 2,
-        name: "GitHub",
-        path: "/assets/github.svg",
-      },
-      {
-        id: 3,
-        name: "Firebase",
-        path: "/assets/firebase.svg",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/tailwindcss.svg",
-      },
-    ],
-  },
+  id: 6,
+  title: "AI Investment Advisor",
+  description:
+    "An AI-powered investment advisory platform that provides intelligent financial insights and personalized stock recommendations.",
+  subDescription: [
+    "Developed a responsive frontend for analyzing stocks and investment strategies.",
+    "Integrated AI-based logic to generate data-driven financial suggestions.",
+    "Implemented dynamic market data handling and real-time insights display.",
+    "Designed a clean and intuitive UI for seamless user experience and decision-making.",
+  ],
+  href: "https://github.com/Abhishek-3191/AI-Investment-Advisor",
+  logo: "",
+  image: "/assets/ai-investment.png",
+  tags: [
+    {
+      id: 1,
+      name: "NextJs",
+      path: "/assets/NextJs.svg",
+    },
+    {
+      id: 2,
+      name: "Tailwindcss",
+      path: "/assets/tailwindcss.svg",
+    },
+    {
+      id: 3,
+      name: "ReactJs",
+      path: "/assets/react.svg",
+    },
+     {
+      id: 4,
+      name: "GenAI",
+      path: "/assets/genai.svg",
+    },
+  ],
+},
+
 ];
 
 export const mySocials = [
